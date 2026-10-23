@@ -81,7 +81,7 @@ function MainLayout() {
             Configuración
           </NavLink>
           <p className="mt-6 px-3 text-xs text-slate-400">
-            DB_CitasMedicas · v1.0
+            EIRA · v1.0
           </p>
         </div>
       </aside>
@@ -119,7 +119,7 @@ function MainLayout() {
               </div>
               <div className="hidden sm:block">
                 <p className="text-sm font-semibold text-slate-800">
-                  Ana Sánchez
+                  Laura Cuevas
                 </p>
                 <p className="text-xs text-slate-500">
                   Administradora
