@@ -11,7 +11,7 @@ import {
   Eye,
   Pencil,
   Power,
-  X,
+  
   Mail,
   Phone,
   BriefcaseMedical,
@@ -540,7 +540,7 @@ export default function MedicosPages() {
             <Input
               label="Correo electrónico"
               name="email"
-              inputType="email"
+              type="email"
               value={form.email}
               onChange={(event) =>
                 handleChange('email', event.target.value)

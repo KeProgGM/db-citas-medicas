@@ -514,7 +514,7 @@ export default function PacientesPage() {
 
         <div className="overflow-x-auto">
 
-          <table className="w-full min-w-[900px] text-left">
+          <table className="w-full min-w-225 text-left">
 
             <thead className="bg-slate-50">
 

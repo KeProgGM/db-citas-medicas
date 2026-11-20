@@ -149,7 +149,7 @@ function MainLayout() {
       <div className="min-w-0 flex-1">
 
         {/* Navbar */}
-        <header className="sticky top-0 z-10 flex min-h-[76px] items-center justify-between gap-4 border-b border-slate-200 bg-white px-4 md:px-8">
+        <header className="sticky top-0 z-10 flex min-h-19 items-center justify-between gap-4 border-b border-slate-200 bg-white px-4 md:px-8">
 
           {/* Botón menú */}
           <button
